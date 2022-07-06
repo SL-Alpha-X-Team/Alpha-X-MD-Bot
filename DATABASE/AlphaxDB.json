@@ -1,0 +1,6 @@
+{
+    "ENV": true,
+    "WAKE_TIME": "0",
+    "SLEEP": false,
+    "PATH": "/root/AlphaXmd/"
+}
