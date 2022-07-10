@@ -1,6 +1,5 @@
 {
     "ENV": true,
     "WAKE_TIME": "00:00:00",
-    "SLEEP": false,
-    "PATH": ""
+    "SLEEP": false
 }
