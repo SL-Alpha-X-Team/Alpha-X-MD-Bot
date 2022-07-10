@@ -7,6 +7,7 @@
     "COMMAND_LIST_KEY": "alphaMD",
     "ALIVE_MSG_KEY": "alive",
     "SUDO": "false",
+    "SEND_REACT": false,
     "BLOCK_CHAT": false,
     "BLOCK_USERS": false,
     "SEND_READ": false,
