@@ -2,7 +2,7 @@
 <summary><b><h1 align="center">Deploy Bot ⚙️</h1></b></summary>
 <p align="center">
 
-## Simple Method 🌟
+## Simple Methods 🌟
 
 > **[Launch on Okteto < Tutorial Video > ](http://t.me/SL_AlphaX_Team/19)**
 
