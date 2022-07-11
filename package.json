@@ -32,7 +32,7 @@
     },
     "homepage": "https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot#readme",
     "dependencies": {
-        "@adiwajshing/baileys": "4.0.1",
+        "@adiwajshing/baileys": "4.2.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "network-speed": "2.1.1",
         "@octokit/core": "3.5.1",
@@ -58,7 +58,7 @@
         "g-i-s": "^2.1.6",
         "google-translate-tts": "^0.3.0",
         "got": "^11.8.2",
-        "jimp": "0.16.1",
+        "jimp": "^0.16.1",
         "js-ffmpeg": "0.0.26",
         "jsdom": "^16.5.1",
         "langs": "^2.0.0",
