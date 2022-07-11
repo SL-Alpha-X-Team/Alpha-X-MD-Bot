@@ -36,7 +36,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "network-speed": "2.1.1",
         "@octokit/core": "3.5.1",
-        "wa-sticker-formatter": "^3.6.0",
+        "wa-sticker-formatter": "^4.3.2",
         "browser-id3-writer": "^4.4.0",
         "playstore-scraper": "^1.0.0",
         "axios": "0.24.0",
