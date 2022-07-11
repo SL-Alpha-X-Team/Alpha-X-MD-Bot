@@ -1,6 +1,7 @@
 ## Simple Method 🌟
 
-> [🥲]()
+> **[Deploy To Okteto < Tutorial Video > ](http://t.me/SL_AlphaX_Team/19)**
+> **[Deploy To Heroku < Soon > ]()**
 
 ## Run as **Localhost** 🎉
 
