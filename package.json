@@ -4,7 +4,7 @@
     "description": "Alpha-X project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "main.js",
     "scripts": {
-        "start": "supervisor -s main.js"
+        "start": "supervisor -s run.js"
     },
     "repository": {
         "type": "git",
@@ -85,6 +85,7 @@
         "node-json-db": "^1.5.0",
         "google-translate-api": "2.3.0",
         "fs-extra": "^9.1.0",
-        "heroku-client": "3.1.0"
+        "heroku-client": "3.1.0",
+        "concurrently": "^7.2.2"
     }
 }
