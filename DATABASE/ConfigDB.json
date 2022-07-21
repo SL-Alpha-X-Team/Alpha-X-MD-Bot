@@ -11,6 +11,7 @@
     "BLOCK_CHAT": false,
     "BLOCK_USERS": false,
     "SEND_READ": false,
+    "PM_BLOCK": false,
     "NO_ONLINE": true,
     "NO_LOG": false,
     "BGM": "off",
