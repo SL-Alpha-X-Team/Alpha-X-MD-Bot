@@ -1,5 +1,5 @@
 <details>
-<summary><b><h1 align="center">Deploy Bot ⚙️</h1></b></summary>
+<summary><b><h1 align="center"> Deploy Bot ⚙️</h1></b></summary>
 <p align="center">
 
 ## Simple Methods 🌟
