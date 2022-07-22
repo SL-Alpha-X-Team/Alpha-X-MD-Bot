@@ -6,7 +6,7 @@
 
 > **[Launch on Okteto < Tutorial Video > ](http://t.me/SL_AlphaX_Team/19)**
 
-> **[Deploy To Heroku < Fork >](https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer/fork)**
+> **[Fork And Deploy To Heroku](https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer/fork)**
 
 ## Run as **Localhost** 🎉
 
