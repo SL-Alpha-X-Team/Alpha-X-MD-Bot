@@ -90,6 +90,7 @@
         "mediafire-getlink": "^1.0.2",
         "download-package": "^0.2.0",
         "download-git-repo": "^3.0.2",
-        "social-downloader-cherry": "^1.0.0"
+        "social-downloader-cherry": "^1.0.0",
+        "qrcode-terminal": "^0.12.0"
     }
 }
