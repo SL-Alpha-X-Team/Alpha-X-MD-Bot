@@ -12,7 +12,7 @@
 
 > **[﹝🔧﹞ Follow the steps](https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer/wiki/Local-Host)**
 
-### Dont forget to join our WhatsApo **[support group](https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt)** ✊🏻
+### Dont forget to join our WhatsApp **[support group](https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt)** ✊🏻
 
 </p>
 </details>
