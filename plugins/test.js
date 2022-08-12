@@ -1,7 +1,8 @@
 const Events = require('../events');
+
 Events.alphaXCMD({
     pattern: 'fwd ?(.*)',
-    fromMe: WType,
+    fromMe: true,
     desc: 'forward msg'
 }, (async(message, match) => {
 
